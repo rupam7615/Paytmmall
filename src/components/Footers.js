@@ -44,7 +44,7 @@ function Footers() {
 				</div>
 			</div>
 			{
-			<h6 style={{textAlign:"center",marginBottom:"3rem"}}>© Designed by Rupam Garg (<a className = "git" style={{color:"hotpink"}} href="https://github.com/rupam7615/Paytm-mall-clone.git">Github</a>) </h6> }
+			<h6 style={{textAlign:"center",marginBottom:"3rem"}}>© Designed by Rupam Garg (<a className = "git" style={{color:"hotpink"}} href="https://github.com/rupam7615/Paytmmall.git">Github</a>) </h6> }
 		</footer>
 	</div>
     )
